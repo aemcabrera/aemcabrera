@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aemcabrera
-- 👀 I’m interested in coding/programming
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on idk
 - 📫 Reach me on idk...
 
